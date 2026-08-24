@@ -3,21 +3,14 @@
 🎓 **Estudiante de Desarrollo de Software**
  Actualmente estoy aprendiendo y desarrollando mis conocimientos en **programación, desarrollo web,  y Git/GitHub**.
  Me interesa seguir aprendiendo nuevas tecnologías, crear proyectos y mejorar mis habilidades como desarrollador
- ### 📚 Actualmente aprendiendo
 
-- Desarrollo web
-- Git y GitHub
-- Programacion
+## 🌐 Socials
 
-.
-
-### 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -29,12 +22,32 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
-### 📚 Actualmente aprendiendo
+## 📚 Actualmente aprendiendo
 
-- Desarrollo web
-- Git y GitHub
-- Programacion
+- 🌐 Desarrollo Web
+- 💻 Programación
+- 🗄️ Bases de Datos
+- 🔧 Git y GitHub
+- 🎨 Diseño de páginas web
 
+---
 
+## 🚀 Mis proyectos
+
+📌 Sistema de asistencia e inasistencia
+
+🌐 Páginas web
+
+💻 Proyectos de programación
+
+🗄️ Proyectos con bases de datos
+
+---
+
+## ✨ Gracias por visitar mi perfil
+
+⭐ ¡Espero seguir aprendiendo y creando nuevos proyectos!
