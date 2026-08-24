@@ -1,8 +1,15 @@
  Soy Erika Vásquez
-💻 Sobre mi
+💻 **Sobre mi**
 🎓 **Estudiante de Desarrollo de Software**
  Actualmente estoy aprendiendo y desarrollando mis conocimientos en **programación, desarrollo web,  y Git/GitHub**.
- Me interesa seguir aprendiendo nuevas tecnologías, crear proyectos y mejorar mis habilidades como desarrollador.
+ Me interesa seguir aprendiendo nuevas tecnologías, crear proyectos y mejorar mis habilidades como desarrollador
+ ### 📚 Actualmente aprendiendo
+
+- Desarrollo web
+- Git y GitHub
+- Programacion
+
+.
 
 ### 🌐 Socials
 
@@ -28,12 +35,6 @@
 
 - Desarrollo web
 - Git y GitHub
-- Programación
+- Programacion
 
----
 
-### 🚀 Mis proyectos
-
-- 📌 Proyecto de asistencia e inasistencia
-- 🌐 Páginas web
-- 💻 Proyectos de programación
