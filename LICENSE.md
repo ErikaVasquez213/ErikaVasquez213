@@ -1,4 +1,5 @@
  Soy Erika Vásquez
+ 
 💻 **Sobre mi**
 🎓 **Estudiante de Desarrollo de Software**
  Actualmente estoy aprendiendo y desarrollando mis conocimientos en **programación, desarrollo web,  y Git/GitHub**.
