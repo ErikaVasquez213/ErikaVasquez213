@@ -10,7 +10,7 @@ Git, GitHub, HTML, CSS y bases de datos.
 - 🗄️ Bases de Datos
 - 🔧 Git y GitHub
 
-## 🌐 Socials
+## 🌐 Socials:
 
 ## 💻 Tech Stack
 
