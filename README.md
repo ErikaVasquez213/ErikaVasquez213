@@ -1,9 +1,7 @@
 ### ✨ About Me
 Hola soy Erika Vásquez
 Soy estudiante de Desarrollo de Software.
-Me gusta aprender sobre programación, desarrollo web y nuevas tecnologías.
 Actualmente estoy fortaleciendo mis conocimientos en programación,
-Git, GitHub, HTML, CSS y bases de datos.
 ## 📚 Actualmente aprendiendo
 - 🌐  Diseño de páginas web
 - 💻 Programación
@@ -12,7 +10,7 @@ Git, GitHub, HTML, CSS y bases de datos.
 
 ## 🌐 Socials:
 
-## 💻 Tech Stack
+## 💻 ### 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
